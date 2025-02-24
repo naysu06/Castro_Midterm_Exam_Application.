@@ -37,6 +37,20 @@ class ProductController extends Controller
                 'release_year' => 2019,
                 'director' => 'Bong Joon-ho',
                 'price' => 9.99
+            ],
+            [
+                'title' => 'The Godfather',
+                'genre' => 'Crime',
+                'release_year' => 1972,
+                'director' => 'Francis Ford Coppola',
+                'price' => 11.99
+            ],
+            [
+                'title' => 'Pulp Fiction',
+                'genre' => 'Crime',
+                'release_year' => 1994,
+                'director' => 'Quentin Tarantino',
+                'price' => 10.49
             ]
         ];
 
